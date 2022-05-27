@@ -1,0 +1,24 @@
+DEFINITION
+The Strategy Pattern defines a family of algorithms,encapsulates each
+one and makes them interchangeable. Strategy lets the algorithm vary
+independently from clients that use it. 
+
+PROBLEMS SOLVED
+-A sub class or child class inheriting a mthd it doesn't use.
+-Code duplication
+-High coupling
+-low cohesion
+-unmaintainable code
+
+GOALS OF SP
+-Define family of algorithms
+-Encapsulate each family
+-Make the interchangeable
+-Make the algorithm vary independently from the clients that use it.
+
+PRINCIPLES APPLIED
+-Solid
+-Polymorphism
+-Composition
+-Abstraction
+
